@@ -14,3 +14,5 @@ Random Forest are applied on extracted features. <br>
 to the frontend. <br>
 7. Visualizations including overall sentiment and sentiment over time are displayed to the 
 user. <br>
+
+We also added a text box where the user can write some rebiew and the sentiment of the text that is positive (happy face emoticon) or negative (sad face emoticon) will be predicted algorithm wise. 
